@@ -1,0 +1,28 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://github.com/figurestudios/rich-text-editor",
+  "providedBy": { "name": "stelballe", "url": "https://github.com/figurestudios/rich-text-editor" },
+  "icons": [
+    {
+      "src": "./192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "Rich Text Editor",
+  "description": "Generate fancy text",
+  "iconPath": "./256x256.png",
+  "short_name": "FancyText",
+  "start_url": ".",
+  "theme_color": "#00c65e",
+  "skylink": "AQAndLpYJ3MZB8kAZOPw8ex9pJzW6Pj9UvVMyKNkNXUbQw"
+}
